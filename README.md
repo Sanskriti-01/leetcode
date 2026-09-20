@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sanskriti-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Sanskriti-01/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Sanskriti-01/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sanskriti-01/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## String
 |  |
