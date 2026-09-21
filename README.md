@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sanskriti-01/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Sanskriti-01/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sanskriti-01/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanskriti-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Sanskriti-01/leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sanskriti-01/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanskriti-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sanskriti-01/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sanskriti-01/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Sanskriti-01/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sanskriti-01/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sanskriti-01/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sanskriti-01/leetcode/tree/master/0326-power-of-three) |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sanskriti-01/leetcode/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sanskriti-01/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
