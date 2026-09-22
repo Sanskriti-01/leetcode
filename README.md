@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sanskriti-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sanskriti-01/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sanskriti-01/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sanskriti-01/leetcode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
