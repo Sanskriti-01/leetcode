@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sanskriti-01/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Sanskriti-01/leetcode/tree/master/0027-remove-element) |
+| [0119-pascals-triangle-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanskriti-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sanskriti-01/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sanskriti-01/leetcode/tree/master/0189-rotate-array) |
@@ -126,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanskriti-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
