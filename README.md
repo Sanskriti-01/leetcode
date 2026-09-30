@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sanskriti-01/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanskriti-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0989-add-to-array-form-of-integer](https://github.com/Sanskriti-01/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sanskriti-01/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sanskriti-01/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Sanskriti-01/leetcode/tree/master/0412-fizz-buzz) |
+| [0989-add-to-array-form-of-integer](https://github.com/Sanskriti-01/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sanskriti-01/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sanskriti-01/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
