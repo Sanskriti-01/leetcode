@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Sanskriti-01/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sanskriti-01/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sanskriti-01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sanskriti-01/leetcode/tree/master/0724-find-pivot-index) |
+| [2574-left-and-right-sum-differences](https://github.com/Sanskriti-01/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
