@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sanskriti-01/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanskriti-01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sanskriti-01/leetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Sanskriti-01/leetcode/tree/master/0724-find-pivot-index) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sanskriti-01/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -161,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sanskriti-01/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Sanskriti-01/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
