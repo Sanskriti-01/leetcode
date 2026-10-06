@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Sanskriti-01/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sanskriti-01/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sanskriti-01/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sanskriti-01/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanskriti-01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sanskriti-01/leetcode/tree/master/0645-set-mismatch) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sanskriti-01/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sanskriti-01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanskriti-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sanskriti-01/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sanskriti-01/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sanskriti-01/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sanskriti-01/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sanskriti-01/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
