@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sanskriti-01/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanskriti-01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sanskriti-01/leetcode/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sanskriti-01/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sanskriti-01/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sanskriti-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sanskriti-01/leetcode/tree/master/0415-add-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sanskriti-01/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Sanskriti-01/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sanskriti-01/leetcode/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
