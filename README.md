@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sanskriti-01/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Sanskriti-01/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sanskriti-01/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sanskriti-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sanskriti-01/leetcode/tree/master/0415-add-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sanskriti-01/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanskriti-01/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sanskriti-01/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Quicksort
 |  |
 | ------- |
