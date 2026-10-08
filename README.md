@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2404-most-frequent-even-element](https://github.com/Sanskriti-01/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sanskriti-01/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Sanskriti-01/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2404-most-frequent-even-element](https://github.com/Sanskriti-01/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sanskriti-01/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Sanskriti-01/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanskriti-01/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Sanskriti-01/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sanskriti-01/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Quicksort
 |  |
