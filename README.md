@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanskriti-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sanskriti-01/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sanskriti-01/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Sanskriti-01/leetcode/tree/master/0260-single-number-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sanskriti-01/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sanskriti-01/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanskriti-01/leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sanskriti-01/leetcode/tree/master/0268-missing-number) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanskriti-01/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sanskriti-01/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanskriti-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Sanskriti-01/leetcode/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanskriti-01/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -230,5 +234,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
