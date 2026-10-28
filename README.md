@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sanskriti-01/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanskriti-01/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Sanskriti-01/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanskriti-01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sanskriti-01/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
