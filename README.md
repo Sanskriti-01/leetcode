@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sanskriti-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sanskriti-01/leetcode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Sanskriti-01/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/Sanskriti-01/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sanskriti-01/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Bit Manipulation
