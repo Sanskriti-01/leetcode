@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Sanskriti-01/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanskriti-01/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sanskriti-01/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanskriti-01/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanskriti-01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sanskriti-01/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanskriti-01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanskriti-01/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanskriti-01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sanskriti-01/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sanskriti-01/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sanskriti-01/leetcode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Sanskriti-01/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/Sanskriti-01/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sanskriti-01/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanskriti-01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sanskriti-01/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Bit Manipulation
