@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskriti-01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sanskriti-01/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sanskriti-01/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sanskriti-01/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sanskriti-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sanskriti-01/leetcode/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanskriti-01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sanskriti-01/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sanskriti-01/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
