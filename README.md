@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sanskriti-01/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sanskriti-01/leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Sanskriti-01/leetcode/tree/master/0260-single-number-iii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sanskriti-01/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sanskriti-01/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sanskriti-01/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanskriti-01/leetcode/tree/master/0268-missing-number) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanskriti-01/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sanskriti-01/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sanskriti-01/leetcode/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanskriti-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
